@@ -1,0 +1,2 @@
+# ElectricPowerConsumption
+Exploratory Data Plots
